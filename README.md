@@ -103,8 +103,12 @@
 8. If you see the table and data that means we created a pipeline succesfully.
 
 ## Create a Trigger and run the data Pipeline Successfully :
+
+![Screenshot (497)](https://github.com/shekharj21/shekharj21/assets/54074505/cd4e95ca-be3a-4b42-b71f-c5b7ab4c3292)
+
 1. After Successfully transimmision of data from input (Data lake) to output (SQL DB), now we need to remove the data from Data Lake and delete the table in SQL DB too because we are creating a trigger that whenever the data comes into the Data Lake, it will be moved to SQL DB.
 2. go to the pipeline and choose create trigger and choose the following setting (minimal).
    
-![Screenshot (497)](https://github.com/shekharj21/shekharj21/assets/54074505/cd4e95ca-be3a-4b42-b71f-c5b7ab4c3292)
+
+
 
