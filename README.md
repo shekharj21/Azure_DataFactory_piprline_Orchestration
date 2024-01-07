@@ -62,3 +62,12 @@
 5. craete a linked service for Azure SQL Database too.
 6. choose all the information and create it.
 
+
+## Create Dataset for Azure Data Factory :
+(we need to create two datasets i.e. for ADLS and for SQL)
+1. Go to Data Factory.
+2. Click Author -----> Dataset ----> New Dataset.
+3. add a first dataset for input (ADLS) by typing DATA LAKE and choose file format.
+4. Fill all the info and create a dataset for ADLS.
+5. Create same for the SQL Database.
+   
