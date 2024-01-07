@@ -52,4 +52,13 @@
 3. give a name to it and create it.
 4. click on the created container and add input file by clicking on upload.
 
+## Create Linked Service in Azure data Factory :
+![Screenshot (491)](https://github.com/shekharj21/shekharj21/assets/54074505/c0eef0b5-336b-4db3-a4b1-23811b63e978)
 
+1. azure data factory needs to know the connectivity between Azure data lake and Azure SQL Database. We will use the liked service (connectivity information) to help Azure data factory connect with with input (ADLS) and output (Azure SQL).
+2. Go to Resource group. (we need to create 2 linked service i.e. for storage and datalake)
+3. open data factory studio -----> monitor ------> Linked Services.
+4. choose name and details. test the connection and create it.
+5. craete a linked service for Azure SQL Database too.
+6. choose all the infor and create it.
+7. 
