@@ -108,6 +108,7 @@
 
 1. After Successfully transimmision of data from input (Data lake) to output (SQL DB), now we need to remove the data from Data Lake and delete the table in SQL DB too because we are creating a trigger that whenever the data comes into the Data Lake, it will be moved to SQL DB.
 2. go to the pipeline and choose create trigger and choose the following setting (minimal).
+3. run the trigger so now the data from any .csv file uploaded in DATA LAKE will be exported to AZURE SQL DB.
    
 
 
