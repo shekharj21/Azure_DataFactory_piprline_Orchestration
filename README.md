@@ -60,5 +60,5 @@
 3. open data factory studio -----> monitor ------> Linked Services.
 4. choose name and details. test the connection and create it.
 5. craete a linked service for Azure SQL Database too.
-6. choose all the infor and create it.
-7. 
+6. choose all the information and create it.
+
