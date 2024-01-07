@@ -24,3 +24,9 @@
 5.  Just keep all the settings as default in other sections.
 6.  Create Storage account.
    
+## Deploy Azure Data Factory :
+![Screenshot (488)](https://github.com/shekharj21/shekharj21/assets/54074505/9f7ae069-9dff-4633-8633-38bddeca7274)
+
+1. Search data Factories in add resource in home tab.
+2. select reosurce group, naame and region.
+3. keep all other section settings as default and select create.
