@@ -64,6 +64,8 @@
 
 
 ## Create Dataset for Azure Data Factory :
+![Screenshot (492)](https://github.com/shekharj21/shekharj21/assets/54074505/732a01f5-9fa9-4a9b-8f56-19e023e50a9e)
+
 (we need to create two datasets i.e. for ADLS and for SQL)
 1. Go to Data Factory.
 2. Click Author -----> Dataset ----> New Dataset.
