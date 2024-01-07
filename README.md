@@ -30,3 +30,16 @@
 1. Search data Factories in add resource in home tab.
 2. select reosurce group, naame and region.
 3. keep all other section settings as default and select create.
+
+## Deploy Azure SQL DB :
+
+![Screenshot (489)](https://github.com/shekharj21/shekharj21/assets/54074505/1335e164-d4f5-4b6a-b663-d2d7587c94b2)
+
+1. Find Azure SQL DB.
+2. add resouce group, DB name. we don't have server so there is a option "create new" under Server. Click it.
+3. Give all the detailsa and choose SQL authentication and create server.
+4. After that Go to "compute + storage" and choose the bare minimum plan FOR COST SAVING.
+5. Keep all other section setting as default.
+6. Create a SQL DB.
+7. after creaing Db, go to the Db and choose set firewall access and add your own IPv4 Address.
+8. go and then check qurey editior (access on the left section of DB).
