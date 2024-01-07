@@ -73,3 +73,12 @@
 4. Fill all the info and create a dataset for ADLS.
 5. Create same for the SQL Database.
    
+## Create Data Flow Job in Azure data Factory :
+1. Open Azure data Factory and choose Data Flows.
+2. Give the name to DataFlow.
+3. click on add source and give name to source and choose dataset which we have created for input.
+4. Make Sure to Check validate Data Flowing Debug and test connection. now we can check data Preview.
+5. Click + on Source and we can filter the data from a large dataset.
+6. add an expression to filterout the data.
+7. we want to find avg rating by year then we will perform operations on that data by clicking + on the filtered data tag.
+8. we will choose group by "Year" and at aggreagate option we will write Query in the expression builder.
