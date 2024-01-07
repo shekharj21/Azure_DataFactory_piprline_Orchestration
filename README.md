@@ -43,3 +43,13 @@
 6. Create a SQL DB.
 7. after creaing Db, go to the Db and choose set firewall access and add your own IPv4 Address.
 8. go and then check qurey editior (access on the left section of DB).
+
+## Create Storeage Container and upload input File :
+![Screenshot (490)](https://github.com/shekharj21/shekharj21/assets/54074505/32abe05c-1b4e-48eb-b9c6-06cdda32157f)
+
+1. Click on resource group and then click on the storage account.
+2. click on Data lake Storage and click on "+ Container".
+3. give a name to it and create it.
+4. click on the created container and add input file by clicking on upload.
+
+
