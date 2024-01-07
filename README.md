@@ -88,3 +88,16 @@
 8. we will choose group by "Year" and at aggreagate option we will write Query in the expression builder.
 9. we will use sink option by clicking + on the average rating tag to dump the data in SQL Database.
 10. Make Sure you Publish all in order to save it.
+
+
+## Create and Execute the pipeline in the azure data Factory :
+![Screenshot (496)](https://github.com/shekharj21/shekharj21/assets/54074505/d97c60fe-f669-4e51-8aea-df221a95fe36)
+
+1. click on pipeline option in Data Factory Author.
+2. Choose a name and minimise.
+3. We are using dataflows as a activity for that search Data Flow and drag and drop.
+4. choose a dataflow name.
+5. publish it.
+6. Click on add trigger and select ok for pipeline to run.
+7. after the successful creation go to the Azure SQL DB and check for a new table.
+8. If you see the table and data that means we created a pipeline succesfully.
