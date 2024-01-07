@@ -75,7 +75,8 @@
    
 ## Create Data Flow Job in Azure data Factory :
 
-![Screenshot (494)](https://github.com/shekharj21/shekharj21/assets/54074505/cb6a876d-3694-4f12-9fa5-0afeda563a11)
+![Screenshot (495)](https://github.com/shekharj21/shekharj21/assets/54074505/50842e03-6da4-4e1c-b396-af3102a43c07)
+
 
 1. Open Azure data Factory and choose Data Flows.
 2. Give the name to DataFlow.
